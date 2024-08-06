@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello, I'm Nour Ayman Abdullah</h1>
-<h3 align="left"I am a fresh graduate from Cairo University</h3>
+<h3 align="left">I am a fresh graduate from Cairo University</h3>
 
 
 - 👯 I’m looking to collaborate on **Node.js Backend projects**
