@@ -16,26 +16,6 @@ Currently, I work as a **Software Engineer at EYEGO**, where I develop and deplo
 
 ---
 
-## 💼 Experience
-
-### **Software Engineer — EYEGO (Remote)**  
-**Nov 2024 – Present**
-- Develop scalable backend services using **Node.js & Express**.
-- Containerize and deploy microservices using **Docker** and **Kubernetes**.
-- Build CI/CD pipelines with **GitHub Actions** to automate deployment.
-- Manage workloads on **Google Cloud** (Cloud Run, Compute Engine, Cloud Storage).
-- Integrate **Elasticsearch** for logging, analytics, and observability.
-
-### **DevOps Intern — Information Technology Institute (ITI)**  
-**Apr 2025 – Aug 2025**
-- Built cloud infrastructure on **AWS** (EC2, IAM, VPC, S3).
-- Automated provisioning with **Terraform**, **Ansible**, and Bash.
-- Managed containers and orchestration using **Docker** and **Kubernetes**.
-- Performed Linux administration aligned with **RHCSA** standards.
-- Implemented CI/CD workflows and deployed web services with **NGINX**.
-
----
-
 ## 🛠️ Technical Skills
 
 **Backend Development**  
